@@ -1,7 +1,6 @@
-## This is Keith's Markdown page!
-
 '###This should be a code box'
 
+'This should be a code box'
 
-> blockquote
+> This is a blockquote
 > this is too. 
